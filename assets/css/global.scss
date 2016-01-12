@@ -158,10 +158,11 @@ input:not([type=submit]):not([type=file]):active, input:not([type=submit]):not([
 	}
 }
 .title a img {
- width:70%;
+ width:100%;
 
  	@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
  	 width:50%;
+ 	 margin-top:-40px;
  	 }
 
 }
