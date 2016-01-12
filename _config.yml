@@ -7,7 +7,7 @@ description: 				"SJParida's tech blog"
 baseurl: 					""
 url: 						"http://sjparida.github.io"
 logourl: 					"/assets/img/bloglogo.jpg"		
-fa-logo: 					"/assets/img/logo.jpg"
+fa-logo: 					""
 paginate: 					5
 
 
