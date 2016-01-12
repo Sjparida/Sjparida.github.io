@@ -157,6 +157,14 @@ input:not([type=submit]):not([type=file]):active, input:not([type=submit]):not([
 		display:inline-block;
 	}
 }
+.title a img {
+ width:70%;
+
+ 	@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+ 	 width:50%;
+ 	 }
+
+}
 
 .wrapper{
 	width:90%;
