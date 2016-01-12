@@ -11,7 +11,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga et non sint repud
 ## Features
 
 #### <i class="fa fa-globe"></i> Portfolio : http://sjparida.in
+
 #### <i class="fa fa-envelope-o"></i> Email : contact@sjparida.in
+
 #### <i class="fa fa-phone"></i> Phone : (+91) 7411145201
 
 if you have any questions, suggestion, or requests, please let me know!, I will be happy to help.
