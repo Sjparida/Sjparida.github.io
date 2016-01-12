@@ -6,7 +6,7 @@ email: 						"contact@sjparida.com"
 description: 				"SJParida's tech blog"
 baseurl: 					""
 url: 						"http://sjparida.github.io"
-logourl: 					"/assets/img/bloglogo.jpg"		
+logourl: 					"/assets/img/logo.jpg"		
 fa-logo: 					""
 paginate: 					5
 
