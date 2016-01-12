@@ -10,9 +10,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga et non sint repud
 
 ## Features
 
-#### <i class="fa fa-arrows-h"></i> My Website : http://sjparida.in
-#### <i class="fa fa-expand"></i> Work Email : contact@sjparida.in
+#### <i class="fa fa-globe"></i> Portfolio : http://sjparida.in
+#### <i class="fa fa-envelope-o"></i> Email : contact@sjparida.in
+#### <i class="fa fa-phone"></i> Phone : (+91) 7411145201
 
-if you have any questions you can email me at contact@sjparida.com, I will be happy to help.
-
-If you have any suggestion, or requests, please let me know!
+if you have any questions, suggestion, or requests, please let me know!, I will be happy to help.
