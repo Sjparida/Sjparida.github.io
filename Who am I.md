@@ -3,6 +3,7 @@ layout: page
 title: Who am I
 permalink: /whoami/
 comments: false
+footer: false
 ---
 
 Hi, I'm Satyajeet Parida.
