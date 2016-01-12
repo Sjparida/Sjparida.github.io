@@ -1,10 +1,54 @@
-excerpt_separator: ""
-pygments: true
-markdown: kramdown
-url: http://Sjparida.github.io
-name: Awesome
-description: My awesome new site
-author: Satyajeet Parida
-avatar: http://www.gravatar.com/avatar/ba447d6512aeeb0b73f2254e72e791bb?s=120&d=mm&r=g
-ga_domain: 
-ga_tracking_id: 
+
+
+# Site Settings
+title: 						"SJParida's blog"
+email: 						"contact@sjparida.com"
+description: 				"SJParida's tech blog"
+baseurl: 					""
+url: 						"http://Sjparida.github.io"
+logourl: 					"/assets/img/bloglogo.jpg"		
+fa-logo: 					"fa-bookmark-o"
+paginate: 					5
+
+
+# Author Settings
+author_name: 				"Satyajeet Parida"
+author_url: 				"http://sjparida.com"
+author_bio: 				"I am a FrontEnd Developer"
+author_email: 				"contact@sjparida.com"
+author_image: 				"/assets/img/authorimage.jpg"
+
+
+# Social Settings
+twitter_url: 				"http://twitter.com"
+facebook_url: 				"http://facebook.com"
+github_url:  				"http://github.com"
+youtube_url:  				"http://youtube.com"
+dribbble_url:  				"http://dribbble.com"
+googleplus_url: 			"http://google.com/plus"
+instagram_url:  			"http://instagram.com"
+pinterest_url:  			"http://pinterest.com"
+linkedin_url:  				"http://linkedin.com"
+
+
+# Theme Settings
+theme_disqus_shortname: 	"sjparidablog"
+theme_google_comments: 		false
+theme_analytics_id: 		"UA-12345678-1"
+theme_analytics_domain: 	""
+theme_reading_time: 		false
+theme_autoload_comments: 	false
+theme_always_show_nav: 		false
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty
+
