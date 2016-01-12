@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple HTTP Server in NodeJS"
-date:   2014-06-28 04:07:49
+date:   2016-06-28 04:07:49
 categories: NodeJS Guides
 banner_image: ""
 featured: false
