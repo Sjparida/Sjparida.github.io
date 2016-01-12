@@ -125,11 +125,11 @@ input:not([type=submit]):not([type=file]):active, input:not([type=submit]):not([
 	z-index:200;
 	display:block;
 	padding:9px 12px 6px;
-	background:#29292a;
+	background:transparent;
 	color:#fff;
 	@include transition(background 0.6s ease-out);
 	&:hover{
-		background:#3287c1;
+		background:transparent;
 	}
 	span{
 		display:inline-block;
